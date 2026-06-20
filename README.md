@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Amir Shazad | NGS Bioinformatics" width="100%">
+</p>
 <div align="center">
 
 # Hi, I’m Amir Shazad 👋
