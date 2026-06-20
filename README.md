@@ -1,32 +1,45 @@
+<div align="center">
+
 # Hi, I’m Amir Shazad 👋
+
+### NGS Bioinformatics | Metagenomics | RNA-seq | Microbiome Data Analysis | Python | AI-Assisted Workflows
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NGS-Bioinformatics-blue" />
+  <img src="https://img.shields.io/badge/Metagenomics-Microbiome-green" />
+  <img src="https://img.shields.io/badge/RNA--seq-Transcriptomics-orange" />
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow" />
+  <img src="https://img.shields.io/badge/AI-Agentic%20Workflows-purple" />
+</p>
+
+</div>
+
+---
+
+## 👨‍🔬 About Me
 
 I am a PhD researcher in **Food Engineering and Biotechnology** with a growing focus on **NGS bioinformatics, metagenomics, RNA-seq, microbiome data analysis, Python-based omics workflows, and AI-assisted computational biology**.
 
 My background connects **food biotechnology, fermentation, microbiome science, functional foods, molecular microbiology, analytical science, and computational biology**. I am especially interested in using bioinformatics and AI-supported workflows to transform complex biological datasets into meaningful scientific interpretation.
 
+My goal is to build practical, reproducible, and biologically meaningful workflows that connect **wet-lab research, sequencing data, computational analysis, and real-world scientific applications**.
+
 ---
 
 ## 🔬 Main Bioinformatics Interests
 
-* Next Generation Sequencing (NGS)
-* Metagenomics and microbiome profiling
-* 16S rRNA sequencing analysis
-* Alpha and beta diversity analysis
-* RNA-seq and transcriptomics
-* Differential gene expression analysis
-* WGS/WES data processing
-* SNPs, CNVs, structural variants, and variant calling
-* Microbiome–metabolite data integration
-* Multi-omics data interpretation
-* Python-based biological data analysis
-* Reproducible bioinformatics workflows
-* AI-assisted bioinformatics and research automation
+| Area                     | Focus                                                           |
+| ------------------------ | --------------------------------------------------------------- |
+| **NGS Bioinformatics**   | FASTQ, BAM, CRAM, VCF, QC, alignment, reproducible workflows    |
+| **Metagenomics**         | 16S rRNA, microbiome profiling, alpha and beta diversity        |
+| **Transcriptomics**      | RNA-seq, count matrices, differential gene expression           |
+| **Genomics**             | WGS/WES, SNPs, indels, CNVs, SVs, variant calling concepts      |
+| **Multi-omics**          | Microbiome–metabolite integration and biological interpretation |
+| **AI-assisted Research** | Claude Code, ChatGPT, Cursor, GitHub Copilot, AI agents         |
 
 ---
 
 ## 🧬 NGS and Omics Skills I Am Building
-
-I am developing practical skills in different areas of sequencing data analysis, including:
 
 ### Genomics
 
@@ -35,7 +48,7 @@ I am developing practical skills in different areas of sequencing data analysis,
 * FASTQ quality control
 * Read trimming and preprocessing
 * Short-read alignment
-* BAM/CRAM processing
+* BAM and CRAM processing
 * Variant calling concepts
 * SNPs, indels, CNVs, and structural variants
 * VCF file interpretation and filtering
@@ -67,55 +80,49 @@ I am developing practical skills in different areas of sequencing data analysis,
 
 ### Programming and Data Analysis
 
-* Python
-* pandas
-* NumPy
-* matplotlib
-* Jupyter Notebook
-* Bash scripting
-* Linux command line
-* Git and GitHub
+<p>
+  <img src="https://img.shields.io/badge/Python-Programming-blue" />
+  <img src="https://img.shields.io/badge/pandas-Data%20Analysis-lightgrey" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blueviolet" />
+  <img src="https://img.shields.io/badge/matplotlib-Visualization-orange" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
+  <img src="https://img.shields.io/badge/Linux-Command%20Line-black" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-green" />
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-lightgrey" />
+</p>
 
 ### NGS and Bioinformatics Tools
 
-* FastQC
-* MultiQC
-* Cutadapt
-* Trimmomatic
-* STAR
-* HISAT2
-* Salmon
-* Kallisto
-* featureCounts
-* HTSeq
-* DESeq2
-* QIIME2
-* Kraken2
-* MetaPhlAn
-* Samtools
-* BCFtools
-* GATK-style workflow concepts
-* VCF, BAM, CRAM, FASTQ, and count matrix handling
+<p>
+  <img src="https://img.shields.io/badge/FastQC-Quality%20Control-blue" />
+  <img src="https://img.shields.io/badge/MultiQC-QC%20Reports-green" />
+  <img src="https://img.shields.io/badge/Cutadapt-Trimming-orange" />
+  <img src="https://img.shields.io/badge/Trimmomatic-Preprocessing-yellow" />
+  <img src="https://img.shields.io/badge/STAR-RNA--seq-blueviolet" />
+  <img src="https://img.shields.io/badge/HISAT2-Alignment-blue" />
+  <img src="https://img.shields.io/badge/Salmon-Quantification-red" />
+  <img src="https://img.shields.io/badge/Kallisto-Quantification-purple" />
+  <img src="https://img.shields.io/badge/featureCounts-Read%20Counting-green" />
+  <img src="https://img.shields.io/badge/HTSeq-Read%20Counting-lightgrey" />
+  <img src="https://img.shields.io/badge/DESeq2-Differential%20Expression-orange" />
+  <img src="https://img.shields.io/badge/QIIME2-Microbiome-blue" />
+  <img src="https://img.shields.io/badge/Kraken2-Taxonomic%20Profiling-green" />
+  <img src="https://img.shields.io/badge/MetaPhlAn-Metagenomics-yellow" />
+  <img src="https://img.shields.io/badge/Samtools-BAM%20Processing-blue" />
+  <img src="https://img.shields.io/badge/BCFtools-VCF%20Processing-purple" />
+</p>
 
 ### AI, Coding Assistants and Agentic Workflows
 
-I am also exploring how modern AI tools can support bioinformatics, coding, documentation, and research automation.
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-AI%20Coding-purple" />
+  <img src="https://img.shields.io/badge/ChatGPT-Research%20Assistant-green" />
+  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-blue" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-Code%20Assistant-lightgrey" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Workflows-orange" />
+</p>
 
-Tools and interests include:
-
-* Claude Code
-* ChatGPT
-* Cursor
-* GitHub Copilot
-* AI-assisted coding
-* Agentic workflow design
-* Research automation
-* AI-supported literature review
-* AI-assisted debugging and workflow planning
-* Automated report writing and documentation
-* Bioinformatics pipeline explanation and optimization
-
-My goal is to combine **bioinformatics + Python + AI + automation** to build practical, reproducible, and easy-to-understand workflows for biological data analysis.
+I am exploring how modern AI tools can support **bioinformatics, coding, documentation, workflow planning, debugging, literature review, and research automation**.
 
 ---
 
@@ -132,6 +139,8 @@ I am interested in using AI and agentic workflows for:
 * Building reproducible research notes
 * Connecting biological questions with computational workflows
 * Improving productivity in omics-based research
+
+My goal is to combine **bioinformatics + Python + AI + automation** to build practical, reproducible, and easy-to-understand workflows for biological data analysis.
 
 ---
 
@@ -153,7 +162,7 @@ This GitHub profile is focused on building and documenting practical learning pr
 
 ---
 
-## 🌱 Current Learning Goals
+## 🚀 Current Learning Goals
 
 I am currently developing a strong portfolio in:
 
@@ -187,20 +196,19 @@ This background helps me connect biological questions with computational analysi
 
 ---
 
-## 📊 Example Areas I Am Working On
+## 📊 Example Project Areas
 
 Some practical bioinformatics projects I aim to build and document here include:
 
-* Basic Linux commands for NGS beginners
-* FASTQ quality control using FastQC and MultiQC
-* Python scripts for reading and cleaning biological datasets
-* Microbiome alpha and beta diversity analysis
-* 16S rRNA taxonomic profiling workflow
-* RNA-seq count matrix exploration
-* Volcano plot and heatmap generation
-* VCF file understanding and variant filtering notes
-* AI-assisted pipeline documentation
-* Agentic workflow templates for bioinformatics learning
+| Project Area              | Example Output                                       |
+| ------------------------- | ---------------------------------------------------- |
+| **Linux for NGS**         | Basic command-line workflows for beginners           |
+| **FASTQ QC**              | FastQC and MultiQC reports                           |
+| **Microbiome Analysis**   | Alpha diversity, beta diversity, and taxa plots      |
+| **RNA-seq Basics**        | Count matrix exploration and visualization           |
+| **Python for Biology**    | Scripts for cleaning and plotting biological data    |
+| **Variant Calling Notes** | VCF understanding and filtering examples             |
+| **AI-assisted Workflows** | Pipeline documentation and research automation notes |
 
 ---
 
@@ -238,4 +246,12 @@ I am open to collaboration in:
 
 ## 🔗 Keywords
 
-`NGS` `Bioinformatics` `Metagenomics` `Microbiome` `RNA-seq` `Python` `Linux` `FASTQ` `BAM` `VCF` `QIIME2` `FastQC` `MultiQC` `Variant Calling` `Alpha Diversity` `Beta Diversity` `Claude Code` `AI Agents` `Agentic Workflows` `Computational Biology`
+`NGS` `Bioinformatics` `Metagenomics` `Microbiome` `RNA-seq` `Python` `Linux` `FASTQ` `BAM` `VCF` `QIIME2` `FastQC` `MultiQC` `Variant Calling` `Alpha Diversity` `Beta Diversity` `Claude Code` `ChatGPT` `Cursor` `GitHub Copilot` `AI Agents` `Agentic Workflows` `Computational Biology`
+
+---
+
+<div align="center">
+
+### Building reproducible bioinformatics workflows for microbiome, omics, and AI-assisted research.
+
+</div>
